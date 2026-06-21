@@ -43,9 +43,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Project Screenshots
 
-(Add screenshots here)
 
 ## Author
 
